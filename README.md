@@ -25,3 +25,5 @@ Ohjelmoinnin perusteita naisille Pythonilla
       >  Prinsessan koitokset          
          >>>          
 
+## Johdatus ohjelmointiin 
+https://github.com/silmukka-koodikoulu/ohjelmoinnin-perusteita-naisille/wiki/johdatus-ohjelmointiin
