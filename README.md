@@ -17,5 +17,5 @@ Ohjelmoinnin perusteita naisille Pythonilla
 1. Jos kaikki meni kuten pitääkin, IDLE -konsoli ajaa kirjoittamasi ohjelman      
       >  ========== RESTART: prinsessapeli.py ==========         
       >  Prinsessan koitokset          
-      >  >>>          
+         >>>          
 
