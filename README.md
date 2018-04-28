@@ -27,6 +27,6 @@ Ohjelmoinnin perusteita naisille Pythonilla
 
 ## Johdatus ohjelmointiin 
 Opetusmateriaali:       
-https://github.com/silmukka-koodikoulu/ohjelmoinnin-perusteita-naisille/wiki/johdatus-ohjelmointiin
+https://github.com/silmukka-koodikoulu/ohjelmoinnin-perusteita-naisille/wiki/johdatus-ohjelmointiin         
 Esimerkkiohjelma:       
 https://github.com/silmukka-koodikoulu/ohjelmoinnin-perusteita-naisille/blob/master/prinsessapeli.py
