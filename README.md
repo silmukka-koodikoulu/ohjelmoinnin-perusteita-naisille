@@ -6,7 +6,7 @@ Ohjelmoinnin perusteita naisille Pythonilla
 1. Lataa Python 3 https://www.python.org/ 
 1. Asenna Python
 
-## Ohjeet
+## Ympäristön testausohjeet
 
 1. Avaa Pythonin mukana tullut editori IDLE 
 1. File > New File 
