@@ -14,8 +14,8 @@ Ohjelmoinnin perusteita naisille Pythonilla
     1.      print('Prinsessan koitokset') 
 1. Ollessasi tyytyväinen tuotokseen tallenna File > Save 
 1. Aja ohjelma Run > Run module 
-1. Jos kaikki meni kuten pitääkin, IDLE -konsoli ajaa kirjoittamasi ohjelman
-     ========== RESTART: /Users/sito-macbook/Documents/prinsessapeli.py ==========
-     Prinsessan koitokset
-     >>> 
+1. Jos kaikki meni kuten pitääkin, IDLE -konsoli ajaa kirjoittamasi ohjelman      
+     ========== RESTART: /Users/sito-macbook/Documents/prinsessapeli.py ==========         
+     Prinsessan koitokset          
+     >>>          
 
